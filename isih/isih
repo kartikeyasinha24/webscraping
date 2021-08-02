@@ -1,0 +1,32 @@
+from bs4 import BeautifulSoup
+import requests
+import csv
+import re
+# csvfile=open('isih_ext.csv','w')
+
+# csv_writer=csv.writer(csvfile)
+# csv_writer.writerow(['source_id','manual_id','article_title','url','authors','authors_affiliation','abstract_text','date','start_time','end_time','location','session_title','session_type','category','sub_category','disclosure','image_table'])
+# displayid=[x for x in range(1,26)]
+# for i in displayid:
+header = {"User-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'}
+link=f"https://www.sothebysrealty.com/eng/associates/can"
+source = requests.get(link,headers=header)
+soup = BeautifulSoup(source.text, 'lxml')
+# print(soup.text.strip())
+for article in soup.find_all('div',class_="Entities-card__container"):
+	name=article.find('div',class_="Entities-card__entity-details u-flex u-flex__grow-shrink u-flex--column").find('a')
+	print(name)
+	# pattern = re.compile(r"<a>(.*)</a>")
+	# re.findall(pattern, name, flags=0)
+# 	print(name)
+# 	title="Real Estate Professional"
+# 	print(title)
+
+
+	
+# 			csv_writer.writerow([headline,link,author,auth_aff1,date])
+# csvfile.close()
+
+
+		
+

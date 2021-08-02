@@ -1,0 +1,41 @@
+menu,submenu,product,size,crust,price
+Pizza,popular_pizza,Cheese Pizza,Large,Hand Tossed pizza,10.99
+Pizza,popular_pizza,Cheese Pizza,Medium,Hand Tossed pizza,8.99
+Pizza,popular_pizza,Cheese Pizza,Large,Thin 'N crispy,10.99
+Pizza,popular_pizza,Cheese Pizza,Medium,Thin 'N crispy,8.99
+Pizza,popular_pizza,Cheese Pizza,Large,Original pan pizza,11.99
+Pizza,popular_pizza,Cheese Pizza,Medium,Original pan pizza,9.99
+Pizza,popular_pizza,Cheese Pizza,Personal Pan Pizza,Original pan pizza,5.0
+Pizza,popular_pizza,Cheese Pizza,Large,Original stuffed crust,12.99
+Pizza,popular_pizza,Pepperoni Pizza,Large,Hand Tossed pizza,12.54
+Pizza,popular_pizza,Pepperoni Pizza,Medium,Hand Tossed pizza,10.34
+Pizza,popular_pizza,Pepperoni Pizza,Large,Thin 'N crispy,12.54
+Pizza,popular_pizza,Pepperoni Pizza,Medium,Thin 'N crispy,10.34
+Pizza,popular_pizza,Pepperoni Pizza,Large,Original pan pizza,13.54
+Pizza,popular_pizza,Pepperoni Pizza,Medium,Original pan pizza,11.34
+Pizza,popular_pizza,Pepperoni Pizza,Personal Pan Pizza,Original pan pizza,5.0
+Pizza,popular_pizza,Pepperoni Pizza,Large,Original stuffed crust,14.54
+Pizza,popular_pizza,Meat Lover's Pizza,Large,Hand Tossed pizza,16.24
+Pizza,popular_pizza,Meat Lover's Pizza,Medium,Hand Tossed pizza,13.24
+Pizza,popular_pizza,Meat Lover's Pizza,Large,Thin 'N crispy,16.24
+Pizza,popular_pizza,Meat Lover's Pizza,Medium,Thin 'N crispy,13.24
+Pizza,popular_pizza,Meat Lover's Pizza,Large,Original pan pizza,17.24
+Pizza,popular_pizza,Meat Lover's Pizza,Medium,Original pan pizza,14.24
+Pizza,popular_pizza,Meat Lover's Pizza,Personal Pan Pizza,Original pan pizza,7.0
+Pizza,popular_pizza,Meat Lover's Pizza,Large,Original stuffed crust,18.24
+Pizza,popular_pizza,Supreme Pizza,Large,Hand Tossed pizza,16.24
+Pizza,popular_pizza,Supreme Pizza,Medium,Hand Tossed pizza,13.24
+Pizza,popular_pizza,Supreme Pizza,Large,Thin 'N crispy,16.24
+Pizza,popular_pizza,Supreme Pizza,Medium,Thin 'N crispy,13.24
+Pizza,popular_pizza,Supreme Pizza,Large,Original pan pizza,17.24
+Pizza,popular_pizza,Supreme Pizza,Medium,Original pan pizza,14.24
+Pizza,popular_pizza,Supreme Pizza,Personal Pan Pizza,Original pan pizza,7.0
+Pizza,popular_pizza,Supreme Pizza,Large,Original stuffed crust,18.24
+Pizza,popular_pizza,Create Your Own,Large,Hand Tossed pizza,10.99
+Pizza,popular_pizza,Create Your Own,Medium,Hand Tossed pizza,8.99
+Pizza,popular_pizza,Create Your Own,Large,Thin 'N crispy,10.99
+Pizza,popular_pizza,Create Your Own,Medium,Thin 'N crispy,8.99
+Pizza,popular_pizza,Create Your Own,Large,Original pan pizza,11.99
+Pizza,popular_pizza,Create Your Own,Medium,Original pan pizza,9.99
+Pizza,popular_pizza,Create Your Own,Personal Pan Pizza,Original pan pizza,5.0
+Pizza,popular_pizza,Create Your Own,Large,Original stuffed crust,12.99
